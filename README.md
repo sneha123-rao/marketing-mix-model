@@ -83,10 +83,10 @@ This distinction between correlation and incremental ROI is critical for budget 
 ## 💡 Business Recommendations
 
 **1. Reallocate Newspaper budget to Radio**
-Newspaper is not statistically significant and shows a slightly negative coefficient. Every dollar shifted from Newspaper to Radio delivers a measurable sales uplift.
+The newspaper channel is not statistically significant and shows a slightly negative coefficient. Every dollar shifted from the newspaper to the radio delivers a measurable sales uplift.
 
 **2. Maintain TV investment for brand awareness**
-While TV's incremental ROI is lower than Radio, its strong correlation (0.782) suggests it plays an important role in overall brand awareness and market presence.
+While TV's incremental ROI is lower than Radio's, its strong correlation (0.782) suggests it plays an important role in overall brand awareness and market presence.
 
 **3. Optimal budget mix**
 > Heavy Radio investment + Strong TV presence + Zero Newspaper spend
@@ -153,4 +153,3 @@ source("marketing_mix_model.R")
 
 ---
 
-*Built as part of a marketing analytics portfolio targeting econometric consulting roles.*
